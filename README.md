@@ -1,5 +1,6 @@
 # Java Sqlite Desktop Application Water Sales
-Uygulama Açıklaması
+Bu proje Java, JFrame ve SQLite yazılımlarını kullanarak bir su satış gerçekleştiren magazaların bütün ihtiyaçlarını karşılayan bir otomasyon olmayı amaçlamaktadır.
+
 
 
 ## Kullanılan Diller ve Yetenekler
